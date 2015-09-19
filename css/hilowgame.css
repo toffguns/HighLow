@@ -1,0 +1,16 @@
+#restartbtn {
+  display: none;
+}
+
+#userguess {
+  line-height: 1em;
+}
+
+body {
+  background-color: gray;
+  text-align: center;
+}
+
+h1{
+  color: blue;
+}
